@@ -28,14 +28,13 @@
 .skills_list{
     background-color: rgba(132, 175, 180, 0.8);
     text-align: center;
-    padding: 20px 0;
+    padding: 30px 0;
     font-size: 15px;
     font-weight: 500;
-    margin-left: auto;
-    margin-right: auto;
+    }
 
-}
 
+    
 /* .avatar{
 display: contents;  
 grid-template-rows: 100px 100px; 
