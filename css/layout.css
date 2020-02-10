@@ -2,8 +2,8 @@
 
 
 .header{
-    display: grid;
-    grid-template-rows: 50px ;
+    display: block;
+    grid-template-rows: 50px 50px;
     grid-template-areas: 50px;
     margin: 100px;
     
